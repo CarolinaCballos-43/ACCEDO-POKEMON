@@ -1,0 +1,30 @@
+body {
+  padding-top: 56px;
+}
+
+.principal {
+	background-image: url(../img/pieza1.png);
+	background-size: cover;
+	height: 410px;
+}
+
+.secundario {
+	height: 320px;
+	margin: 30px;
+}
+
+.containerForm{
+	background: red;
+	display: table;
+	height: 250px;
+	width: 450px;
+	padding: 20px;
+	margin: 30px;
+}
+
+.cont{
+	display: table-cell;
+    vertical-align: middle;
+}
+
+
